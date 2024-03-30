@@ -1,0 +1,73 @@
+body {
+    display: block;
+    background-color: darkslategray;
+}
+#applecabLogo {
+    width: 110px;
+    float: left;
+    margin-left: 4vw;
+    margin-top: .2vw;
+}
+.navLink {
+    text-decoration: none;
+    color: black;
+    padding: .9vw;
+    padding-left: 1.4vw;
+    padding-right: 1.4vw;
+    border: 1px solid black;
+}
+.navLink:hover {
+    color: white;
+    border: 1px solid white;
+}
+header {
+    position: absolute;
+    overflow: auto;
+    min-height: 12vw;
+    padding-top: 2vw;
+}
+
+ul {
+    display: flex;
+    margin-left: 25vw;
+    margin-top: 3vw;
+    flex-flow: row wrap;
+    gap: 2em;
+}
+li {
+    font-size: 20pt;
+    list-style-type: none;
+    padding: .9vw;
+}
+
+#cbusPic {
+    margin-top: -9px;
+    margin-left: -8px;
+    width: 99vw;
+}
+
+#pfooter {
+    padding: 1vw;
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#rBtn {
+    margin-top: 25vw;
+    margin-left: 35vw;
+    position: absolute;
+    background-color: rgb(7, 238, 88);
+    color: black;
+    border: 2px solid black;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    padding: 20pt;
+}
+
+#rBtn:hover {
+    border: 2px solid white;
+    color: white;
+    background-color: lightgreen;
+}

@@ -1,0 +1,55 @@
+body {
+    margin: 3px;
+    padding: 0;
+    border-radius: 5px;
+    min-height: 100vh;
+    box-shadow: 0 0 20px 2px black;
+    background-image: url('backgrnd.png');
+    background-size: 500px;
+    color: white;
+}
+
+nav {
+    z-index: 1;
+    border-radius: 5px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 2vh;
+}
+
+#applecabLogo {
+    width: 90px;
+    float: left;
+    margin: -5px 10px;
+}
+
+#map {
+    position: absolute;
+    top: 25vh;
+    bottom: 0vh;
+    left: 30vw;
+    width: 55%;
+    border-radius: 10px;
+}
+
+input {
+    background-color: rgb(207, 207, 207);
+    width: 20vw;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-item {
+    margin: 10px;
+}
+
+#submitBtn {
+    min-width: 200px;
+}
+
+footer {
+    display: block;
+    margin-top: 3vw;
+    margin-left: 20px;
+}
