@@ -9,4 +9,5 @@ and fetch directions information to show routes on the map.
 
 Note that this website is NOT complete. The next thing that I can work on is connecting it to credit-card processing APIs
 (like Stripe) to process payments. Moreover, I will need to implement email, address verifications, and additional features to
-ensure the site is robust (for instance, ensure the CSS functions properly on smaller devices) if it were to be released.
+ensure the site is robust (for instance, ensure the CSS functions properly on smaller devices) if it were to be released. You can
+download this project and run it. However, **you will need to get private API-key from MapBox.com for free** to ensure functionality.
