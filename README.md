@@ -1,7 +1,7 @@
 This project is a website for a taxi company named AppleCab. It consists of the main page and 
 the reservations page, where users can place reservations. 
 
-The main reason why I created this project was to furtuehr advance my experiences
+The main reason why I created this project was to further advance my experiences
 in front-end programming using HTML, CSS, and JavaScript, as well as back-end work using Node.js.
 More specifically, I wanted to get a hands on experience on connecting my application to an API to successfully exchange data. 
 I have accomplished this as the reservations page connects to the MapBox API to fetch data and perform Address auto-filling 
